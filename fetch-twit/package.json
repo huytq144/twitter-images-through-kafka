@@ -1,0 +1,16 @@
+{
+  "name": "fetch-twit",
+  "version": "1.0.0",
+  "description": "Fetch Twit from Twitter",
+  "main": "index.js",
+  "scripts": {
+    "start:fetchtweet": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "^1.16.0",
+    "twit": "^2.2.11"
+  }
+}
